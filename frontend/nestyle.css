@@ -1,0 +1,354 @@
+.top-nav {
+    background-color: orange;
+}
+.icn {
+    display: block;
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  .icn:hover {
+    background-color: #111;
+  }
+
+  .top-nav-contact {
+    background-color: white;
+}
+
+
+.contact-li {
+  display: block;
+  color: #FF7000;
+  text-align: center;
+  padding: 17px 17px;
+  text-decoration: none;
+  font-size: 31px;
+  padding-top: 0px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.contact-info-main {
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+  line-height: 23px;
+}
+
+
+.no-line {
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+}
+
+.contact-info-cl {
+  color: #BABABA;
+  font-family: 'Roboto', sans-serif;
+  line-height: 17.5px;
+}
+
+.button-orange {
+  background-color: #FF7000;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 50px;
+  border-radius: 8px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.button-orange:hover {
+  background-color: orangered;
+}
+
+.pad-right {
+  padding-right: 30px;
+}
+
+.pad-right-li{
+  padding-right: 8px;
+}
+
+.dropdown-toggle::after {
+  display: none;
+}
+
+.nav-plus-drop {
+  padding-left: 10px;
+  color: #FF7000;
+  font-size: 13px;
+}
+
+.main-nav {
+  background-color: #333333;
+
+
+}
+
+/* Style the links inside the navigation bar */
+.nac-item {
+  color: #f2f2f2;
+  text-align: center;
+  text-decoration: none;
+  font-size: 17px;
+  padding-left: 27px;
+  padding-right: 10px;
+  font-family: 'Roboto', sans-serif;
+  padding: 5px 5px;
+}
+
+.divider-urg {
+  background-color: white;
+  height: 9px;
+  width: 80%;
+  border-radius: 3px;
+}
+
+.divider-urg span.dvd {
+  display: block;
+  width: 80%;
+  height: 9px;
+  background-color: #FF7000;
+  border-radius: 3px;
+}
+
+.end-viol, .nd-hlp {
+  font-family: 'Lora', serif;
+  font-size: 54px;
+}
+.main-orange {
+  color: #FF7000;
+}
+
+.main-white {
+  color: white;
+}
+
+.info-p-urg {
+  color: #666666;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+}
+
+
+
+hr.brk-line {
+  border-top: 3px solid #FF7000;  
+  border-radius: 5px;
+  width: 100px;
+  opacity: 1 ;
+  
+}
+
+.urgent-art {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.dont-img {
+  width: 570px;
+  height: 436px;  
+}
+
+.lora-fml {
+  font-family: 'Lora', serif;
+  font-size: 21px;
+}
+
+
+#example{
+  background-repeat: repeat-x;    
+  margin-left: 20px;
+  margin-top: 13px;
+}
+
+#example .but1{    
+ 
+  line-height: 0px;
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right:0px;
+  display:inline-block;
+  position:relative;
+}
+
+#example .but1 button {
+  position:absolute;
+  top: 340px;
+  left: 180px;
+}
+
+.lora-fml-28 {
+  font-family: 'Lora', serif;
+  font-size: 28px;
+}
+
+.info-p-urg-3 {
+  color: #666666;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  padding-left: 100px;
+}
+
+.circle-icon {
+  background: #FF7000;
+  padding:30px;
+  border-radius: 50%;
+}
+
+.dark-bg {
+  background-color: #111;
+}
+
+.lora-fml-35 {
+  font-family: 'Lora', serif;
+  font-size: 28px;
+  color: #FF7000;
+}
+.icon-bg-size {
+  background: grey;
+  padding: 40px;
+  border-radius: 50%;
+  font-size: 50px;
+}
+
+
+hr.brk-lines {
+  border-top: 3px solid #FF7000;  
+  border-radius: 5px;
+  width: 100px;
+  opacity: 1 ;
+  margin: 0 auto;
+  
+}
+
+.lora-fml-21 {
+  font-family: 'Lora', serif;
+  font-size: 2px;
+  color: #FF7000;
+}
+
+hr.brk-line-wh {
+  border-top: 3px solid white;  
+  border-radius: 5px;
+  width: 100px;
+  opacity: 1 ;
+  
+}
+
+.rob-16 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+}
+
+.pad-l {
+  padding-right: 40px;
+}
+
+.month-bg {
+  background: grey;
+  padding: 20px;
+  font-size: 50px;
+  
+}
+
+.img-siz {
+  width: 97px;
+  height: 97px;
+}
+
+.evnt-bg {
+  background-color: #333333;
+  padding-right: 0px;
+}
+
+.red-m:hover {
+  color: #FF7000;
+
+}
+
+.button-dark {
+  background-color: #333333;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 50px;
+  border-radius: 8px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.button-dark:hover {
+  background-color: #444444;
+}
+
+.rob-18 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  color: #FF7000;
+}
+
+.pid-l {
+  padding-left: 30px;
+}
+
+.hvr-o:hover{
+  color: #FF7000;
+}
+
+.log-siz {
+  width: 153px;
+  height: 53px;
+}
+
+.fot-icn {
+  font-size: 24px;
+}
+
+.fot-icn:hover {
+  background-color: #FF7000;
+  border-radius: 50%;
+  color: white;
+}
+
+.dark-bg {
+  background-color: #222222;
+  background-image: url("Images/DotMap.png");
+  }
+
+  .cp-bg {
+    background-color: #333333;
+  }
+
+  .open-san {
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    font-size: 16px;
+  }
+
+  .parent {
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+  .image1 {
+    position: relative;
+    top: 0;
+    left: 0;
+    border: 1px red solid;
+  }
+  .image2 {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    border: 1px green solid;
+  }
